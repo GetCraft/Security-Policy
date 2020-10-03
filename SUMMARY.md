@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Test](README.md)
+* [Security Response Plan Policy](README.md)
 
 ## General
 
