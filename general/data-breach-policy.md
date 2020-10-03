@@ -75,6 +75,6 @@ Any GetCraft personnel found in violation of this policy may be subject to disci
 
 | Version | Date of Revision | Author | Description of Changes |
 | :--- | :--- | :--- | :--- |
-| 0.1 | October 2020 | GetCraft Infosec Team | Initial version |
+| 0.1 | October 2020 | GetCraft DevSecOps Team | Initial version |
 |  |  |  |  |
 

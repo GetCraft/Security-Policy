@@ -23,7 +23,7 @@ The scope of this policy includes all personnel who have or are responsible for 
 ### 4.2 Password Change
 
 1. Passwords should be changed only when there is reason to believe a password has been compromised.
-2. Password cracking or guessing may be performed on a periodic or random basis by the Infosec Team or its delegates. If a password is guessed or cracked during one of these scans, the user will be required to change it to be in compliance with the Password Construction Guidelines.
+2. Password cracking or guessing may be performed on a periodic or random basis by the DevSecOps Team or its delegates. If a password is guessed or cracked during one of these scans, the user will be required to change it to be in compliance with the Password Construction Guidelines.
 
 ### 4.3 Password Protection
 
@@ -50,11 +50,11 @@ Application developers must ensure that their programs contain the following sec
 
 ### 5.1 Compliance Measurement
 
-The Infosec team will verify compliance to this policy through various methods, including but not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
+The DevSecOps team will verify compliance to this policy through various methods, including but not limited to, periodic walk-througs, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
 
 ### 5.2 Exceptions
 
-Any exception to the policy must be approved by the Infosec Team in advance.
+Any exception to the policy must be approved by the DevSecOps Team in advance.
 
 ### 5.3 Non-Compliance
 
@@ -68,6 +68,6 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 |  |  |  |
 | :--- | :--- | :--- |
-| October 2020 | GetCraft Infosec Team | Initial version |
+| October 2020 | GetCraft DevSecOps Team | Initial version |
 |  |  |  |
 

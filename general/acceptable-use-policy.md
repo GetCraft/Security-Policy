@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-Infosec’s intentions for publishing an Acceptable Use Policy are not to impose restrictions that are contrary to GetCraft’s established culture of openness, trust and integrity. Infosec is committed to protecting GetCraft's employees, partners and the company from illegal or damaging actions by individuals, either knowingly or unknowingly.
+DevSecOps's intentions for publishing an Acceptable Use Policy are not to impose restrictions that are contrary to GetCraft’s established culture of openness, trust and integrity. DevSecOps is committed to protecting GetCraft's employees, partners and the company from illegal or damaging actions by individuals, either knowingly or unknowingly.
 
 Internet/Intranet/Extranet-related systems, including but not limited to computer equipment, software, operating systems, storage media, network accounts providing electronic mail, WWW browsing, and FTP, are the property of GetCraft. These systems are to be used for business purposes in serving the interests of the company, and of our clients and customers in the course of normal operations. Please review Human Resources policies for further details.
 
@@ -26,7 +26,7 @@ This policy applies to employees, contractors, consultants, temporaries, and oth
 2. You have a responsibility to promptly report the theft, loss or unauthorized disclosure of GetCraft proprietary information.
 3. You may access, use or share GetCraft proprietary information only to the extent it is authorized and necessary to fulfill your assigned job duties.
 4. Employees are responsible for exercising good judgment regarding the reasonableness of personal use. Individual departments are responsible for creating guidelines concerning personal use of Internet/Intranet/Extranet systems. In the absence of such policies, employees should be guided by departmental policies on personal use, and if there is any uncertainty, employees should consult their supervisor or manager.
-5. For security and network maintenance purposes, authorized individuals within GetCraft may monitor equipment, systems and network traffic at any time, per Infosec's _Audit Policy_.
+5. For security and network maintenance purposes, authorized individuals within GetCraft may monitor equipment, systems and network traffic at any time, per DevSecOps's _Audit Policy_.
 6. GetCraft reserves the right to audit networks and systems on a periodic basis to ensure compliance with this policy.
 
 ### **4.2 Security and Proprietary Information**
@@ -59,7 +59,7 @@ The following activities are strictly prohibited, with no exceptions:
 8. Making fraudulent offers of products, items, or services originating from any GetCraft account.
 9. Making statements about warranty, expressly or implied, unless it is a part of normal job duties.
 10. Effecting security breaches or disruptions of network communication. Security breaches include, but are not limited to, accessing data of which the employee is not an intended recipient or logging into a server or account that the employee is not expressly authorized to access, unless these duties are within the scope of regular duties. For purposes of this section, "disruption" includes, but is not limited to, network sniffing, pinged floods, packet spoofing, denial of service, and forged routing information for malicious purposes.
-11. Port scanning or security scanning is expressly prohibited unless prior notification to Infosec is made.
+11. Port scanning or security scanning is expressly prohibited unless prior notification to DevSecOps is made.
 12. Executing any form of network monitoring which will intercept data not intended for the employee's host, unless this activity is a part of the employee's normal job/duty.
 13. Circumventing user authentication or security of any host, network or account.
 14. Introducing honeypots, honeynets, or similar technology on the GetCraft network.
@@ -91,11 +91,11 @@ When using company resources to access and use the Internet, users must realize 
 
 ### 5.1 Compliance Measurement
 
-The Infosec team will verify compliance to this policy through various methods, including but not limited to, business tool reports, internal and external audits, and feedback to the policy owner.
+The DevSecOps team will verify compliance to this policy through various methods, including but not limited to, business tool reports, internal and external audits, and feedback to the policy owner.
 
 ### 5.2 Exceptions
 
-Any exception to the policy must be approved by the Infosec team in advance.
+Any exception to the policy must be approved by the DevSecOps team in advance.
 
 ### 5.3 Non-Compliance
 
@@ -123,6 +123,6 @@ The following definition and terms can be found in the SANS Glossary located at:
 
 | **Date of Change** | **Responsible** | **Summary of Change** |
 | :--- | :--- | :--- |
-| October 2020 | GetCraft Infosec Team | Initial version |
+| October 2020 | GetCraft DevSecOps Team | Initial version |
 |  |  |  |
 

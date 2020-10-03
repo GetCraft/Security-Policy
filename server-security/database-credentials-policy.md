@@ -51,11 +51,11 @@ _\[Add references to your site-specific guidelines for the different coding lang
 
 ### 5.1 Compliance Measurement
 
-The Infosec team will verify compliance to this policy through various methods, including but not limited to, business tool reports, internal and external audits, and feedback to the policy owner.
+The DevSecOps team will verify compliance to this policy through various methods, including but not limited to, business tool reports, internal and external audits, and feedback to the policy owner.
 
 ### 5.2 Exceptions
 
-Any exception to the policy must be approved by the Infosec team in advance.
+Any exception to the policy must be approved by the DevSecOps team in advance.
 
 ### 5.3 Non-Compliance
 
@@ -81,6 +81,6 @@ Any program code or application that is found to violate this policy must be rem
 
 | Date of Change | Responsible | Summary of Change |
 | :--- | :--- | :--- |
-| October 2020 | GetCraft Infosec Team | Initial version |
+| October 2020 | GetCraft DevSecOps Team | Initial version |
 |  |  |  |
 

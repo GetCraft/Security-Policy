@@ -30,11 +30,11 @@ This policy covers appropriate use of any email sent from a GetCraft email addre
 
 ### 5.1 Compliance Measurement
 
-The Infosec team will verify compliance to this policy through various methods, including but not limited to, periodic walk-thrus, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
+The DevSecOps team will verify compliance to this policy through various methods, including but not limited to, periodic walk-throughs, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
 
 ### 5.2 Exceptions
 
-Any exception to the policy must be approved by the Infosec team in advance.
+Any exception to the policy must be approved by the DevSecOps team in advance.
 
 ### 5.3 Non-Compliance
 
@@ -52,6 +52,6 @@ None.
 
 | **Date of Change** | **Responsible** | **Summary of Change** |
 | :--- | :--- | :--- |
-| October 2020 | GetCraft Infosec Team | Initial version |
+| October 2020 | GetCraft DevSecOps Team | Initial version |
 |  |  |  |
 

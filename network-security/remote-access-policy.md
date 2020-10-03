@@ -27,7 +27,7 @@ For additional information regarding GetCraft's remote access connection options
 1. Secure remote access must be strictly controlled with encryption \(i.e., Virtual Private Networks \(VPNs\)\) and strong pass-phrases. For further information see the _Acceptable Encryption Policy_ and the _Password Policy_.
 2. Authorized Users shall protect their login and password, even from family members.
 3. While using a GetCraft-owned computer to remotely connect to GetCraft's corporate network, Authorized Users shall ensure the remote host is not connected to any other network at the same time, with the exception of personal networks that are under their complete control or under the complete control of an Authorized User or Third Party.
-4. Use of external resources to conduct GetCraft business must be approved in advance by InfoSec and the appropriate business unit manager.
+4. Use of external resources to conduct GetCraft business must be approved in advance by DevSecOps and the appropriate business unit manager.
 5. All hosts that are connected to GetCraft internal networks via remote access technologies must use the most up-to-date anti-virus software \(place url to corporate software site here\), this includes personal computers. Third party connections must comply with requirements as stated in the _Third Party Agreement_.
 6. Personal equipment used to connect to GetCraft's networks must meet the requirements of GetCraft-owned equipment for remote access as stated in the _Hardware and Software Configuration Standards for Remote Access to_ GetCraft _Networks_.
 
@@ -35,11 +35,11 @@ For additional information regarding GetCraft's remote access connection options
 
 ### 5.1 Compliance Measurement
 
-The Infosec Team will verify compliance to this policy through various methods, including but not limited to, periodic walk-throughs, video monitoring, business tool reports, internal and external audits, and inspection, and will provide feedback to the policy owner and appropriate business unit manager.
+The DevSecOps Team will verify compliance to this policy through various methods, including but not limited to, periodic walk-throughs, video monitoring, business tool reports, internal and external audits, and inspection, and will provide feedback to the policy owner and appropriate business unit manager.
 
 ### 5.2 Exceptions
 
-Any exception to the policy must be approved by Remote Access Services and the Infosec Team in advance.
+Any exception to the policy must be approved by Remote Access Services and the DevSecOps Team in advance.
 
 ### 5.3 Non-Compliance
 
@@ -59,6 +59,6 @@ Please review the following policies for details of protecting information when 
 
 | Date of Change | Responsible | Summary of Change |
 | :--- | :--- | :--- |
-| October 2020 | GetCraft Infosec Team | Initial version |
+| October 2020 | GetCraft DevSecOps Team | Initial version |
 |  |  |  |
 
