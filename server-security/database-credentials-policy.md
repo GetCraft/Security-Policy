@@ -81,6 +81,6 @@ Any program code or application that is found to violate this policy must be rem
 
 | Date of Change | Responsible | Summary of Change |
 | :--- | :--- | :--- |
-| October 2020 | GetCraft Policy Team | First Draft |
+| October 2020 | GetCraft Infosec Team | Initial version |
 |  |  |  |
 

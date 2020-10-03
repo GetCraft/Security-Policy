@@ -52,6 +52,6 @@ None.
 
 | **Date of Change** | **Responsible** | **Summary of Change** |
 | :--- | :--- | :--- |
-| October 2020 | GetCraft Infosec | Initial version |
+| October 2020 | GetCraft Infosec Team | Initial version |
 |  |  |  |
 

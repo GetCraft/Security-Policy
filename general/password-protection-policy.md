@@ -68,6 +68,6 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 |  |  |  |
 | :--- | :--- | :--- |
-| October 2020 | GetCraft Infosec | Initial version |
+| October 2020 | GetCraft Infosec Team | Initial version |
 |  |  |  |
 

@@ -59,6 +59,6 @@ Please review the following policies for details of protecting information when 
 
 | Date of Change | Responsible | Summary of Change |
 | :--- | :--- | :--- |
-| October 2020 | GetCraft Policy Team | First Draft |
+| October 2020 | GetCraft Infosec Team | Initial version |
 |  |  |  |
 

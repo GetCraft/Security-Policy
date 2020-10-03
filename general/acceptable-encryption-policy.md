@@ -103,6 +103,6 @@ The following definition and terms can be found in the SANS Glossary located at:
 
 | **Date of Change** | **Responsible** | **Summary of Change** |
 | :--- | :--- | :--- |
-| October 2020 | GetCraft Infosec | Initial version |
+| October 2020 | GetCraft Infosec Team | Initial version |
 |  |  |  |
 
