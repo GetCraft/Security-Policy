@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-See Purpose.
+See [Purpose](acceptable-encryption-policy.md#2-purpose).
 
 ## 2. Purpose
 
