@@ -1,20 +1,20 @@
 # Disaster Recovery Plan Policy
 
-## Overview
+## 1. Overview
 
 Since disasters happen so rarely, management often ignores the disaster recovery planning process. It is important to realize that having a contingency plan in the event of a disaster gives GetCraft a competitive advantage. This policy requires management to financially support and diligently attend to disaster contingency planning efforts. Disasters are not limited to adverse weather conditions. Any event that could likely cause an extended delay of service should be considered. The Disaster Recovery Plan is often part of the Business Continuity Plan.
 
-## Purpose
+## 2. Purpose
 
 This policy defines the requirement for a baseline disaster recovery plan to be developed and implemented by GetCraft that will describe the process to recover IT Systems, Applications and Data from any type of disaster that causes a major outage.
 
-## Scope
+## 3. Scope
 
 This policy is directed to the IT Management Staff who is accountable to ensure the plan is developed, tested and kept up-to-date. This policy is solely to state the requirement to have a disaster recovery plan, it does not provide requirements around what goes into the plan or sub-plans.
 
-## Policy
+## 4. Policy
 
-4.1 Contingency Plans
+### 4.1 Contingency Plans
 
 The following contingency plans must be created:
 
@@ -32,31 +32,31 @@ After creating the plans, it is important to practice them to the extent possibl
 
 The plan, at a minimum, should be reviewed and updated on an annual basis.
 
-## Policy Compliance
+## 5. Policy Compliance
 
-* 1. Compliance Measurement
+### 5.1 Compliance Measurement
 
 The DevSecOps team will verify compliance to this policy through various methods, including but not limited to, periodic walk-throughs, video monitoring, business tool reports, internal and external audits, and feedback to the policy owner.
 
-## Exceptions
+### 5.2 Exceptions
 
 Any exception to the policy must be approved by the DevSecOps Team in advance.
 
-## Non-Compliance
+### 5.3 Non-Compliance
 
 An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of employment.
 
-## Related Standards, Policies and Processes
+## 6. Related Standards, Policies and Processes
 
 None.
 
-## Definitions and Terms
+## 7. Definitions and Terms
 
 The following definition and terms can be found in the SANS Glossary located at: [https://www.sans.org/security-resources/glossary-of-terms](https://www.sans.org/security-resources/glossary-of-terms)
 
 * Disaster
 
-## Revision History
+## 8. Revision History
 
 | **Date of Change** | **Responsible** | **Summary of Change** |
 | :--- | :--- | :--- |
