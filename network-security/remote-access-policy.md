@@ -49,11 +49,10 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 Please review the following policies for details of protecting information when accessing the corporate network via remote access methods, and acceptable use of &lt;Company Name&gt;’s network:
 
-* _Acceptable Encryption Policy_
-* _Acceptable Use Policy_
+* \_\_[_Acceptable Encryption Policy_](../general/acceptable-encryption-policy.md)
+* \_\_[_Acceptable Use Policy_](../general/acceptable-use-policy.md)
 * \_\_[_Password Policy_](../general/password-protection-policy.md)
-* _Third Party Agreement_
-* _Hardware and Software Configuration Standards for Remote Access to_ GetCraft _Networks_
+* \_\_[_Hardware and Software Configuration Standards for Remote Access to_ GetCraft _Networks_](remote-access-tools-policy.md)
 
 ## 7. Revision History
 
