@@ -4,8 +4,8 @@
 
 ## General
 
-* [Acceptable Use Policy](general/acceptable-use-policy.md)
 * [Acceptable Encryption Policy](general/acceptable-encryption-policy.md)
+* [Acceptable Use Policy](general/acceptable-use-policy.md)
 * [Data Breach Response Policy](general/data-breach-policy.md)
 * [Email Policy](general/email-policy.md)
 * [Password Construction Guidelines](general/password-construction-guidelines.md)
