@@ -20,5 +20,6 @@
 ## Server Security
 
 * [Database Credentials Coding Policy](server-security/database-credentials-policy.md)
+* [Information Logging Standard](server-security/information-logging-standard.md)
 * [Server Security Policy](server-security/server-security-policy.md)
 
