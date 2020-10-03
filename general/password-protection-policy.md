@@ -62,7 +62,7 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 ## 6. Related Standards, Policies and Processes
 
-* Password Construction Guidelines
+* [Password Construction Guidelines](password-construction-guidelines.md)
 
 ## 7. Revision History
 

@@ -51,7 +51,7 @@ Please review the following policies for details of protecting information when 
 
 * _Acceptable Encryption Policy_
 * _Acceptable Use Policy_
-* _Password Policy_
+* \_\_[_Password Policy_](../general/password-protection-policy.md)
 * _Third Party Agreement_
 * _Hardware and Software Configuration Standards for Remote Access to_ GetCraft _Networks_
 

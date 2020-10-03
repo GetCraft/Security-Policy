@@ -67,7 +67,7 @@ Any program code or application that is found to violate this policy must be rem
 
 ## 6. Related Standards, Policies and Processes
 
-* Password Policy
+* [Password Policy](../general/password-protection-policy.md)
 
 ## 7. Definitions and Terms
 
