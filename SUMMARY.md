@@ -12,5 +12,5 @@
 
 ## General
 
-* [Data Breach Response Policy](general/data-breach-response-policy.md)
+* [Data Breach Response Policy](general/data-breach-policy.md)
 
