@@ -10,7 +10,7 @@ GetCraft Information Security's intentions for publishing a Data Breach Response
 
 ### **1.2 Background**
 
-This policy mandates that any individual who suspects that a theft, breach or exposure of GetCraft Protected data or GetCraft Sensitive data has occurred must immediately provide a description of what occurred via e-mail to Helpdesk@GetCraft.org, by calling 555-1212, or through the use of the help desk reporting web page at http://GetCraft. This email address, phone number, and web page are monitored by the GetCraft’s Information Security Administrator. This team will investigate all reported thefts, data breaches and exposures to confirm if a theft, breach or exposure has occurred. If a theft, breach or exposure has occurred, the Information Security Administrator will follow the appropriate procedure in place.
+This policy mandates that any individual who suspects that a theft, breach or exposure of GetCraft Protected data or GetCraft Sensitive data has occurred must immediately provide a description of what occurred via e-mail to devops@getcraft.com, or through the use of the help desk reporting web page at https://getcraft.com/contactus. This email address, and web page are monitored by the GetCraft’s Information Security Administrator. This team will investigate all reported thefts, data breaches and exposures to confirm if a theft, breach or exposure has occurred. If a theft, breach or exposure has occurred, the Information Security Administrator will follow the appropriate procedure in place.
 
 ## **2 Scope**
 
@@ -51,7 +51,7 @@ Work with GetCraft communications, legal and human resource departments to decid
 Roles & Responsibilities:
 
 * Sponsors - Sponsors are those members of the GetCraft community that have primary responsibility for maintaining any particular information resource. Sponsors may be designated by any GetCraft Executive in connection with their administrative responsibilities, or by the actual sponsorship, collection, development, or storage of information.
-* Information Security Administrator is that member of the GetCraft community, designated by the Executive Director or the Director, Information Technology \(IT\) Infrastructure, who provides administrative support for the implementation, oversight and coordination of security procedures and systems with respect to specific information resources in consultation with the relevant Sponsors.
+* Information Security Administrator is the member of the GetCraft community, designated by the Executive Director or the Director, Information Technology \(IT\) Infrastructure, who provides administrative support for the implementation, oversight and coordination of security procedures and systems with respect to specific information resources in consultation with the relevant Sponsors.
 * Users include virtually all members of the GetCraft community to the extent they have authorized access to information resources, and may include staff, trustees, contractors, consultants, interns, temporary employees and volunteers.
 * The Incident Response Team shall be chaired by Executive Management and shall include, but will not be limited to, the following departments or their representatives: IT-Infrastructure, IT-Application Security; Communications; Legal; Management; Financial Services, Member Services; Human Resources.
 
@@ -64,7 +64,7 @@ Any GetCraft personnel found in violation of this policy may be subject to disci
 * **Encryption or encrypted data** – The most effective way to achieve data security. To read an encrypted file, you must have access to a secret key or password that enables you to decrypt it. Unencrypted data is called plain text;
 * **Plain text** – Unencrypted data.
 * **Hacker** – A slang term for a computer enthusiast, i.e., a person who enjoys learning programming languages and computer systems and can often be considered an expert on the subject\(s\).
-* **Protected Health Information \(PHI\)** - Under US law is any information about health status, provision of health care, or payment for health care that is created or collected by a "Covered Entity" \(or a Business Associate of a Covered Entity\), and can be linked to a specific individual.
+* **Protected Health Information \(PHI\)** - Any information about health status, provision of health care, or payment for health care that is created or collected by a "Covered Entity" \(or a Business Associate of a Covered Entity\), and can be linked to a specific individual.
 * **Personally Identifiable Information \(PII\)** - Any data that could potentially identify a specific individual. Any information that can be used to distinguish one person from another and can be used for de-anonymizing anonymous data can be considered.
 * **Protected data** - See PII and PHI
 * **Information Resource** - The data and information assets of an organization, department or unit.
