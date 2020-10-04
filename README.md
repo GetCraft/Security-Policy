@@ -14,7 +14,7 @@ This policy applies to any established and defined business unity or entity with
 
 ## 4. Policy
 
-The development, implementation, and execution of a Security Response Plan \(SRP\) are the primary responsibility of the specific business unit for whom the SRP is being developed in cooperation with the DevSecOps Team. Business units are expected to properly facilitate the SRP for applicable to the service or products they are held accountable for. The business unit security coordinator or champion is further expected to work with the &lt;organizational information security unit&gt; in the development and maintenance of a Security Response Plan.
+The development, implementation, and execution of a Security Response Plan \(SRP\) are the primary responsibility of the specific business unit for whom the SRP is being developed in cooperation with the DevSecOps Team. Business units are expected to properly facilitate the SRP for applicable to the service or products they are held accountable for. The business unit security coordinator or champion is further expected to work with the GetCraft DevSecOps unit in the development and maintenance of a Security Response Plan.
 
 ### 4.1 Service or Product Description
 
@@ -48,7 +48,7 @@ Any exception to this policy must be approved by the DevSecOps Team in advance a
 
 ### 5.3 Non-Compliance
 
-Any business unit found to have violated \(no SRP developed prior to service or product deployment\) this policy may be subject to delays in service or product release until such a time as the SRP is developed and approved. Responsible parties may be subject to disciplinary action, up to and including termination of employment, should a security incident occur in the absence of an SRP
+Any business unit found to have violated this policy may be subject to delays in service or product release until such a time as the SRP is developed and approved. Responsible parties may be subject to disciplinary action, up to and including termination of employment, should a security incident occur in the absence of an SRP.
 
 ## 6. Related Standards, Policies and Processes
 
