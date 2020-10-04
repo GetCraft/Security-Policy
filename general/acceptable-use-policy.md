@@ -108,7 +108,7 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 ## 7. Definitions and Terms
 
-The following definition and terms can be found in the SANS Glossary located at: https://www.sans.org/security-resources/glossary-of-terms
+The following definition and terms can be found in the SANS Glossary located at: [https://www.sans.org/security-resources/glossary-of-terms](https://www.sans.org/security-resources/glossary-of-terms)
 
 * Blogging
 * Honeypot

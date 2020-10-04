@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-Remote desktop software, also known as remote access tools, provide a way for computer users and support staff alike to share screens, access work computer systems from home, and vice versa. Examples of such software include AnyDesk, TeamViewer, and Windows Remote Desktop \(RDP\).  While these tools can save significant time and money by eliminating travel and enabling collaboration, they also provide a back door into the GetCraft network that can be used for theft of, unauthorized access to, or destruction of assets. As a result, only approved, monitored, and properly controlled remote access tools may be used on GetCraft computer systems.
+Remote desktop software, also known as remote access tools, provide a way for computer users and support staff alike to share screens, access work computer systems from home, and vice versa. Examples of such software include AnyDesk, TeamViewer, and Windows Remote Desktop \(RDP\). While these tools can save significant time and money by eliminating travel and enabling collaboration, they also provide a back door into the GetCraft network that can be used for theft of, unauthorized access to, or destruction of assets. As a result, only approved, monitored, and properly controlled remote access tools may be used on GetCraft computer systems.
 
 ## 2. Purpose
 

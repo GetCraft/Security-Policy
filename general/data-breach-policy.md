@@ -10,7 +10,7 @@ GetCraft Information Security's intentions for publishing a Data Breach Response
 
 ### **1.2 Background**
 
-This policy mandates that any individual who suspects that a theft, breach or exposure of GetCraft Protected data or GetCraft Sensitive data has occurred must immediately provide a description of what occurred via e-mail to devops@getcraft.com, or through the use of the help desk reporting web page at https://getcraft.com/contactus. This email address, and web page are monitored by the GetCraft’s Information Security Administrator. This team will investigate all reported thefts, data breaches and exposures to confirm if a theft, breach or exposure has occurred. If a theft, breach or exposure has occurred, the Information Security Administrator will follow the appropriate procedure in place.
+This policy mandates that any individual who suspects that a theft, breach or exposure of GetCraft Protected data or GetCraft Sensitive data has occurred must immediately provide a description of what occurred via e-mail to devops@getcraft.com, or through the use of the help desk reporting web page at [https://getcraft.com/contactus](https://getcraft.com/contactus). This email address, and web page are monitored by the GetCraft’s Information Security Administrator. This team will investigate all reported thefts, data breaches and exposures to confirm if a theft, breach or exposure has occurred. If a theft, breach or exposure has occurred, the Information Security Administrator will follow the appropriate procedure in place.
 
 ## **2 Scope**
 

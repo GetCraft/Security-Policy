@@ -20,11 +20,11 @@ This policy applies to all GetCraft employees and affiliates.
 2. Algorithms in use must meet the standards defined for use in NIST publication [FIPS 140-2](http://csrc.nist.gov/groups/STM/cmvp/documents/140-1/1401val2010.htm) or any superseding document, according to date of implementation. The use of the RSA and Elliptic Curve Cryptography \(ECC\) algorithms is strongly recommended for asymmetric encryption.
 3. Signature Algorithms
 
-| **Algorithm** | **Key Length (min)** | **Additional Comment** |
+| **Algorithm** | **Key Length \(min\)** | **Additional Comment** |
 | :--- | :--- | :--- |
-| ECDSA | P-256 | Consider <a href="https://tools.ietf.org/html/rfc6090">RFC6090</a> to avoid patent infringement. |
-| RSA | 2048 | Must use a secure padding scheme. <a href="http://tools.ietf.org/html/rfc3852#section-6.3">PKCS#7 padding scheme</a> is recommended. Message hashing required. |
-| LDWM | SHA256 | Refer to <a href="http://tools.ietf.org/html/draft-mcgrew-hash-sigs-00">LDWM Hash-based Signatures Draft</a> |
+| ECDSA | P-256 | Consider [RFC6090](https://tools.ietf.org/html/rfc6090) to avoid patent infringement. |
+| RSA | 2048 | Must use a secure padding scheme. [PKCS\#7 padding scheme](http://tools.ietf.org/html/rfc3852#section-6.3) is recommended. Message hashing required. |
+| LDWM | SHA256 | Refer to [LDWM Hash-based Signatures Draft](http://tools.ietf.org/html/draft-mcgrew-hash-sigs-00) |
 
 ### 4.2 Hash Function Requirements
 
@@ -64,7 +64,7 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 ## 7. Definitions and Terms
 
-The following definition and terms can be found in the SANS Glossary located at: https://www.sans.org/security-resources/glossary-of-terms
+The following definition and terms can be found in the SANS Glossary located at: [https://www.sans.org/security-resources/glossary-of-terms](https://www.sans.org/security-resources/glossary-of-terms)
 
 * Proprietary Encryption
 
