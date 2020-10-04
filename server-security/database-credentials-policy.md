@@ -12,7 +12,7 @@ Software applications running on GetCraft's networks may require access to one o
 
 ## 3. Scope
 
-This policy is directed at all system implementers and/or software engineers who may be coding applications that will access a production database server on the GetCraft Network. This policy applies to all software \(programs, modules, libraries or APIS that will access a GetCraft, multi-user production database. It is recommended that similar requirements be in place for non-production servers and lap environments since they don’t always use sanitized information.
+This policy is directed at all system implementers and/or software engineers who may be coding applications that will access a production database server on the GetCraft Network. This policy applies to all software \(programs, modules, libraries or APIs\) that will access GetCraft's multi-user production database. It is recommended that similar requirements be in place for non-production servers and environments since they don’t always use sanitized information.
 
 ## 4. Policy
 
