@@ -20,11 +20,10 @@ This policy covers appropriate use of any email sent from a GetCraft email addre
 4. Email should be retained only if it qualifies as a GetCraft business record. Email is a GetCraft business record if there exists a legitimate and ongoing business reason to preserve the information contained in the email.
 5. Email that is identified as a GetCraft business record shall be retained according to GetCraft Record Retention Schedule.
 6. The GetCraft email system shall not to be used for the creation or distribution of any disruptive or offensive messages, including offensive comments about race, gender, hair color, disabilities, age, sexual orientation, pornography, religious beliefs and practice, political beliefs, or national origin. Employees who receive any emails with this content from any GetCraft employee should report the matter to their supervisor immediately.
-7. Users are prohibited from automatically forwarding GetCraft email to a third party email system \(noted in 4.8 below\). Individual messages which are forwarded by the user must not contain GetCraft confidential or above information.
-8. Users are prohibited from using third-party email systems and storage servers such as Google, Yahoo, and MSN Hotmail etc. to conduct GetCraft business, to create or memorialize any binding transactions, or to store or retain email on behalf of GetCraft.  Such communications and transactions should be conducted through proper channels using GetCraft-approved documentation. 
-9. Using a reasonable amount of GetCraft resources for personal emails is acceptable, but non-work related email shall be saved in a separate folder from work related email. Sending chain letters or joke emails from a GetCraft email account is prohibited.
-10. GetCraft employees shall have no expectation of privacy in anything they store, send or receive on the company’s email system.
-11. GetCraft may monitor messages without prior notice. GetCraft is not obliged to monitor email messages.
+7. Users are prohibited from automatically forwarding GetCraft email to a third party email system. Individual messages which are forwarded by the user must not contain GetCraft confidential or above information.
+8. Using a reasonable amount of GetCraft resources for personal emails is acceptable, but non-work related email shall be saved in a separate folder from work related email. Sending chain letters or joke emails from a GetCraft email account is prohibited.
+9. GetCraft employees shall have no expectation of privacy in anything they store, send or receive on the company’s email system.
+10. GetCraft may monitor messages without prior notice. GetCraft is not obliged to monitor email messages.
 
 ## 5. Policy Compliance
 
