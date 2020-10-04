@@ -18,17 +18,13 @@ It is the responsibility of GetCraft employees, contractors, vendors and agents 
 
 General access to the Internet for recreational use through the GetCraft network is strictly limited to GetCraft employees, contractors, vendors and agents \(hereafter referred to as “Authorized Users”\). When accessing the GetCraft network from a personal computer, Authorized Users are responsible for preventing access to any GetCraft computer resources or data by non-Authorized Users. Performance of illegal activities through the GetCraft network by any user \(Authorized or otherwise\) is prohibited. The Authorized User bears responsibility for and consequences of misuse of the Authorized User’s access. For further information and definitions, see the _Acceptable Use Policy_.
 
-Authorized Users will not use GetCraft networks to access the Internet for outside business interests.
-
-For additional information regarding GetCraft's remote access connection options, including how to obtain a remote access login, free anti-virus software, troubleshooting, etc., go to the Remote Access Services website \(company url\).
-
 ### 4.1 Requirements
 
 1. Secure remote access must be strictly controlled with encryption \(i.e., Virtual Private Networks \(VPNs\)\) and strong pass-phrases. For further information see the _Acceptable Encryption Policy_ and the _Password Policy_.
 2. Authorized Users shall protect their login and password, even from family members.
 3. While using a GetCraft-owned computer to remotely connect to GetCraft's corporate network, Authorized Users shall ensure the remote host is not connected to any other network at the same time, with the exception of personal networks that are under their complete control or under the complete control of an Authorized User or Third Party.
 4. Use of external resources to conduct GetCraft business must be approved in advance by DevSecOps and the appropriate business unit manager.
-5. All hosts that are connected to GetCraft internal networks via remote access technologies must use the most up-to-date anti-virus software \(place url to corporate software site here\), this includes personal computers. Third party connections must comply with requirements as stated in the _Third Party Agreement_.
+5. All hosts that are connected to GetCraft internal networks via remote access technologies must use the most up-to-date anti-virus software, this includes personal computers.
 6. Personal equipment used to connect to GetCraft's networks must meet the requirements of GetCraft-owned equipment for remote access as stated in the _Hardware and Software Configuration Standards for Remote Access to_ GetCraft _Networks_.
 
 ## 5. Policy Compliance
