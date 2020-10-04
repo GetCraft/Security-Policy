@@ -1,64 +1,130 @@
-# Security Response Plan Policy
+# Data Protection Standard
 
 ## 1. Overview
 
-A Security Response Plan \(SRP\) provides the impetus for security and business teams to integrate their efforts from the perspective of awareness and communication, as well as coordinated response in times of crisis \(security vulnerability identified or exploited\). Specifically, an SRP defines a product description, contact information, escalation paths, expected service level agreements \(SLA\), severity and impact classification, and mitigation/remediation timelines. By requiring business units to incorporate an SRP as part of their business continuity operations and as new products or services are developed and prepared for release to consumers, ensures that when an incident occurs, swift mitigation and remediation ensues.
+GetCraft create an access control data protection policy to make sure users can access only the assets they need to do their jobs — in other words, to enforce a least-privilege model. This policy is implemented with a combination of technical controls and training to educate users about their responsibilities for protection of data.
 
 ## 2. Purpose
 
-The purpose of this policy is to establish the requirement that all business units supported by the DevSecOps team develop and maintain a security response plan. This ensures that the security incident management team has all the necessary information to formulate a successful response should a specific security incident occur.
+GetCraft must restrict access to confidential and sensitive data to protect it from being lost or compromised in order to avoid adversely impacting our customers, incurring penalties for non-compliance and suffering damage to our reputation. At the same time, we must ensure users can access data as required for them to work effectively.
+
+It is not anticipated that this policy can eliminate all malicious data theft. Rather, its primary objective is to increase user awareness and avoid accidental loss scenarios, so it outlines the requirements for data breach prevention.
 
 ## 3. Scope
 
-This policy applies to any established and defined business unity or entity within the GetCraft.
+This data security policy applies all customer data, personal data, or other GetCraft data defined as sensitive by the GetCraft's [data classification policy](general/data-classification-policy.md). Therefore, it applies to every server, database and IT system that handles such data, including any device that is regularly used for email, web access or other work-related tasks. Every user who interacts with GetCraft IT services is also subject to this policy.
 
 ## 4. Policy
 
-The development, implementation, and execution of a Security Response Plan \(SRP\) are the primary responsibility of the specific business unit for whom the SRP is being developed in cooperation with the DevSecOps Team. Business units are expected to properly facilitate the SRP for applicable to the service or products they are held accountable for. The business unit security coordinator or champion is further expected to work with the GetCraft DevSecOps unit in the development and maintenance of a Security Response Plan.
+### 4.1 Principles
 
-### 4.1 Service or Product Description
+GetCraft shall provide all employees and contracted third parties with access to the information they need to carry out their responsibilities as effectively and efficiently as possible.
 
-The product description in an SRP must clearly define the service or application to be deployed with additional attention to data flows, logical diagrams, architecture considered highly useful.
+### 4.2 General
 
-### 4.2 Contact Information
+1.  Each user shall be identified by a unique user ID so that individuals can be held accountable for their actions.
+2. The use of shared identities is permitted only where they are suitable, such as training accounts or service accounts. 
+3. Each user shall read this data security policy and the login and logoff guidelines, and sign a statement that they understand the conditions of access.
+4. Records of user access may be used to provide evidence for security incident investigations.
+5. Access shall be granted based on the principle of least privilege, which means that each program and user will be granted the fewest privileges necessary to complete their tasks.
 
-The SRP must include contact information for dedicated team members to be available during non-business hours should an incident occur and escalation be required. This may be a 24/7 requirement depending on the defined business value of the service or product, coupled with the impact to the customer. The SRP document must include all phone numbers and email addresses for the dedicated team member\(s\).
+### 4.3 **Access Control Authorization**
 
-### 4.3 Triage
+Access to GetCraft IT resources and services will be given through the provision of a unique user account and complex password. Accounts are provided by the IT department based on records in the HR department. 
 
-The SRP must define triage steps to be coordinated with the security incident management team in a cooperative manner with the intended goal of swift security vulnerability mitigation. This step typically includes validating the reported vulnerability or compromise.
+Passwords are managed by the IT Service Desk. Requirements for password length, complexity and expiration are stated in the GetCraft's [Password Policy](general/password-protection-policy.md). 
 
-### 4.4 Identified Mitigations and Testing
+Role-based access control \(RBAC\) will be used to secure access to all file-based resources in Active Directory domains. 
 
-The SRP must include a defined process for identifying and testing mitigations prior to deployment. These details should include both short-term mitigations as well as the remediation process.
+### **4.4 Network Access**
 
-### 4.5 Mitigation and Remediation Timelines
+1. All employees and contractors shall be given network access in accordance with business access control procedures and the least-privilege principle.
+2. All staff and contractors who have remote access to GetCraft networks shall be authenticated using the VPN authentication mechanism only.
+3. Segregation of networks shall be implemented as recommended by the GetCraft's network security research. Network administrators shall group together information services, users and information systems as appropriate to achieve the required segregation.
+4. Network routing controls shall be implemented to support the access control policy.
 
-The SRP must include levels of response to identified vulnerabilities that define the expected timelines for repair based on severity and impact to consumer, brand, and company. These response guidelines should be carefully mapped to the level of severity determined for the reported vulnerability.
+### 4.5 User Responsibilities
 
-## 5. Policy Compliance
+1. All users must lock their screens whenever they leave their desks to reduce the risk of unauthorized access.
+2. All users must keep their workplace clear of any sensitive or confidential information when they leave.
+3. All users must keep their passwords confidential and not share them.
 
-### 5.1 Compliance Measurement
+### 4.6 **Application and Information Access**
+
+1. All GetCraft staff and contractors shall be granted access to the data and applications required for their job roles.
+2. All GetCraft staff and contractors shall access sensitive data and systems only if there is a business need to do so and they have approval from higher management.
+3. Sensitive systems shall be physically or logically isolated in order to restrict access to authorized personnel only.
+
+### 4.7 **Access to Confidential, Restricted information**
+
+1.  Access to data classified as ‘Confidential’ or ‘Restricted’ shall be limited to authorized persons whose job responsibilities require it, as determined by the Data Security Policy or higher management.
+2. The responsibility to implement access restrictions lies with the IT Security department. 
+
+## **5. Technical Guidelines**
+
+Access control methods to be used shall include:
+
+* Auditing of attempts to log on to any device on the GetCraft network
+* Windows NTFS permissions to files and folders
+* Role-based access model
+* Server access rights
+* Firewall permissions
+* Network zone and VLAN ACLs
+* Web authentication rights
+* Database access rights and ACLs
+* Encryption at rest and in flight
+* Network segregation
+
+Access control applies to all networks, servers, workstations, laptops, mobile devices, web applications and websites, cloud storages, and services.
+
+## 6. Reporting Requirements
+
+1. Daily incident reports shall be produced and handled within the IT Security department or the incident response team.
+2. Weekly reports detailing all incidents shall be produced by the IT Security department and sent to the IT manager or director.
+3. High-priority incidents discovered by the IT Security department shall be immediately escalated; the IT manager should be contacted as soon as possible.
+4. The IT Security department shall also product a monthly report showing the number of IT security incidents and the percentage that were resolved.
+
+## 7. Ownership and Responsibilities
+
+1. **Data owners** are employees who have primary responsibility for maintaining information that they own, such as an executive, department manager or team leader.
+2. **Information Security Administrator** is an employee designated by the IT management who provides administrative support for the implementation, oversight and coordination of security procedures and systems with respect to specific information resources.
+3. **Users** include everyone who has access to information resources, such as employees, trustees, contractors, consultants, temporary employees and volunteers.
+4. **The Incident Response Team** shall be chaired by an executive and include employees from departments such as IT Infrastructure, IT Application Security, Legal, Financial Services and Human Resources.
+
+## 8. Policy Compliance
+
+### 8.1 Compliance Measurement
 
 Each business unit must be able to demonstrate they have a written SRP in place, and that it is under version control and is available via the web. The policy should be reviewed annually.
 
-### 5.2 Exceptions
+### 8.2 Exceptions
 
 Any exception to this policy must be approved by the DevSecOps Team in advance and have a written record.
 
-### 5.3 Non-Compliance
+### 8.3 Non-Compliance
 
-Any business unit found to have violated this policy may be subject to delays in service or product release until such a time as the SRP is developed and approved. Responsible parties may be subject to disciplinary action, up to and including termination of employment, should a security incident occur in the absence of an SRP.
+Any user found in violation of this policy is subject to disciplinary action, up to and including termination of employment. Any third-party partner or contractor found in violation may have their network connection terminated.
 
-## 6. Related Standards, Policies and Processes
+## 9. Related Standards, Policies and Processes
 
-None.
+* [Data Classification Policy](general/data-classification-policy.md)
+* [Password Policy](general/password-protection-policy.md)
+* [Encryption Policy](general/acceptable-encryption-policy.md)
+* [Incident Response Policy](general/security-response-policy.md)
 
-## 7. Definitions and Terms
+## 10. Definitions and Terms
 
-None.
+* **Access control list \(ACL\)** — A list of access control entries \(ACEs\) or rules. Each ACE in an ACL identifies a trustee and specifies the access rights allowed, denied or audited for that trustee.
+* **Database** — An organized collection of data, generally stored and accessed electronically from a computer system.
+* **Encryption**—The process of encoding a message or other information so that only authorized parties can access it.
+* **Firewall** — A technology used for isolating one network from another. Firewalls can be standalone systems or can be included in other devices, such as routers or servers.
+* **Network segregation** — The separation of the network into logical or functional units called zones. For example, you might have a zone for sales, a zone for technical support and another zone for research, each of which has different technical needs.
+* **Role-based access control \(RBAC\)** — A policy-neutral access-control mechanism defined around roles and privileges.
+* **Server** — A computer program or a device that provides functionality for other programs or devices, called clients.
+* **Virtual private network \(VPN\)** — A secure private network connection across a public network.
+* **VLAN \(virtual LAN\)** — A logical grouping of devices in the same broadcast domain.
 
-## 8. Revision History
+## 11. Revision History
 
 | **Date of Change** | **Responsible** | **Summary of Change** |
 | :--- | :--- | :--- |
