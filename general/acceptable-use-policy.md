@@ -26,16 +26,15 @@ This policy applies to employees, contractors, consultants, temporaries, and oth
 2. You have a responsibility to promptly report the theft, loss or unauthorized disclosure of GetCraft proprietary information.
 3. You may access, use or share GetCraft proprietary information only to the extent it is authorized and necessary to fulfill your assigned job duties.
 4. Employees are responsible for exercising good judgment regarding the reasonableness of personal use. Individual departments are responsible for creating guidelines concerning personal use of Internet/Intranet/Extranet systems. In the absence of such policies, employees should be guided by departmental policies on personal use, and if there is any uncertainty, employees should consult their supervisor or manager.
-5. For security and network maintenance purposes, authorized individuals within GetCraft may monitor equipment, systems and network traffic at any time, per DevSecOps's _Audit Policy_.
+5. For security and network maintenance purposes, authorized individuals within GetCraft may monitor equipment, systems and network traffic at any time.
 6. GetCraft reserves the right to audit networks and systems on a periodic basis to ensure compliance with this policy.
 
 ### **4.2 Security and Proprietary Information**
 
-1. All mobile and computing devices that connect to the internal network must comply with the _Minimum Access Policy_.
-2. System level and user level passwords must comply with the _Password Policy_. Providing access to another individual, either deliberately or through failure to secure its access, is prohibited.
-3. All computing devices must be secured with a password-protected screensaver with the automatic activation feature set to 10 minutes or less. You must lock the screen or log off when the device is unattended.
-4. Postings by employees from a GetCraft email address to newsgroups should contain a disclaimer stating that the opinions expressed are strictly their own and not necessarily those of GetCraft, unless posting is in the course of business duties.
-5. Employees must use extreme caution when opening e-mail attachments received from unknown senders, which may contain malware.
+1. System level and user level passwords must comply with the _Password Policy_. Providing access to another individual, either deliberately or through failure to secure its access, is prohibited.
+2. All computing devices must be secured with a password-protected screensaver with the automatic activation feature set to 10 minutes or less. You must lock the screen or log off when the device is unattended.
+3. Postings by employees from a GetCraft email address to newsgroups should contain a disclaimer stating that the opinions expressed are strictly their own and not necessarily those of GetCraft, unless posting is in the course of business duties.
+4. Employees must use extreme caution when opening e-mail attachments received from unknown senders, which may contain malware.
 
 ### **4.3 Unacceptable Use**
 
@@ -91,7 +90,7 @@ When using company resources to access and use the Internet, users must realize 
 
 ### 5.1 Compliance Measurement
 
-The DevSecOps team will verify compliance to this policy through various methods, including but not limited to, business tool reports, internal and external audits, and feedback to the policy owner.
+The DevSecOps team will verify compliance to this policy through various methods and feedback to the policy owner.
 
 ### 5.2 Exceptions
 
@@ -105,13 +104,11 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 * Data Classification Policy
 * Data Protection Standard
-* Social Media Policy
-* Minimum Access Policy
 * [Password Policy](password-protection-policy.md)
 
 ## 7. Definitions and Terms
 
-The following definition and terms can be found in the SANS Glossary located at: https://www.sans.org/security-resources/glossary-of-terms/
+The following definition and terms can be found in the SANS Glossary located at: https://www.sans.org/security-resources/glossary-of-terms
 
 * Blogging
 * Honeypot
