@@ -22,13 +22,13 @@ The scope of this policy includes all personnel who have or are responsible for 
 
 ### 4.2 Password Change
 
-1. Passwords should be changed only when there is reason to believe a password has been compromised.
+1. Passwords should be changed when there is a reason to believe a password has been compromised.
 2. Password cracking or guessing may be performed on a periodic or random basis by the DevSecOps Team or its delegates. If a password is guessed or cracked during one of these scans, the user will be required to change it to be in compliance with the Password Construction Guidelines.
 
 ### 4.3 Password Protection
 
-1. Passwords must not be shared with anyone, including supervisors and coworkers. All passwords are to be treated as sensitive, Confidential GetCraft information. Corporate Information Security recognizes that legacy applications do not support proxy systems in place. Please refer to the technical reference for additional details.
-2. Passwords must not be inserted into email messages, Alliance cases or other forms of electronic communication, nor revealed over the phone to anyone.
+1. Passwords must not be shared with anyone, including supervisors and coworkers. All passwords are to be treated as sensitive, Confidential GetCraft information.
+2. Passwords must not be inserted into email messages, or other forms of electronic communication, nor revealed over the phone to anyone.
 3. Passwords may be stored only in “password managers” authorized by the organization.
 4. Do not use the "Remember Password" feature of applications \(for example, web browsers\).
 5. Any user suspecting that his/her password may have been compromised must report the incident and change all passwords.
