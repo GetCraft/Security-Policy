@@ -10,9 +10,7 @@ The purpose of this policy is to establish standards for the base configuration 
 
 ## 3. Scope
 
-All employees, contractors, consultants, temporary and other workers at Cisco and its subsidiaries must adhere to this policy. This policy applies to server equipment that is owned, operated, or leased by Cisco or registered under a Cisco-owned internal network domain.
-
-This policy specifies requirements for equipment on the internal Cisco network. For secure configuration of equipment external to Cisco on the DMZ, see the Internet _DMZ Equipment Policy_.
+All employees, contractors, consultants, temporary and other workers at GetCraft and its subsidiaries must adhere to this policy. This policy applies to server equipment that is owned, operated, or leased by GetCraft or registered under a GetCraft-owned internal network domain.
 
 ## 4. Policy
 
@@ -27,7 +25,7 @@ This policy specifies requirements for equipment on the internal Cisco network. 
 * Information in the corporate enterprise management system must be kept up-to-date.
 * Configuration changes for production servers must follow the appropriate change management procedures
 
-4.1.2 For security, compliance, and maintenance purposes, authorized personnel may monitor and audit equipment, systems, processes, and network traffic per the _Audit Policy_.
+4.1.2 For security, compliance, and maintenance purposes, authorized personnel may monitor and audit equipment, systems, processes, and network traffic.
 
 ### 4.2 Configuration Requirements
 
@@ -38,8 +36,6 @@ This policy specifies requirements for equipment on the internal Cisco network. 
 5. Trust relationships between systems are a security risk, and their use should be avoided. Do not use a trust relationship when some other method of communication is sufficient.
 6. Always use standard security principles of least required access to perform a function. Do not use root when a non-privileged account will do.
 7. If a methodology for secure channel connection is available \(i.e., technically feasible\), privileged access must be performed over secure channels, \(e.g., encrypted network connections using SSH or IPSec\).
-8. Servers should be physically located in an access-controlled environment.
-9. Servers are specifically prohibited from operating from uncontrolled cubicle areas.
 
 ### 4.3 Monitoring
 
@@ -72,8 +68,7 @@ An employee found to have violated this policy may be subject to disciplinary ac
 
 ## 6. Related Standards, Policies and Processes
 
-* Audit Policy
-* DMZ Equipment Policy
+* None
 
 ## 7. Definitions and Terms
 
