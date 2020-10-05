@@ -22,7 +22,7 @@ GetCraft shall provide all employees and contracted third parties with access to
 
 ### 4.2 General
 
-1.  Each user shall be identified by a unique user ID so that individuals can be held accountable for their actions.
+1. Each user shall be identified by a unique user ID so that individuals can be held accountable for their actions.
 2. The use of shared identities is permitted only where they are suitable, such as training accounts or service accounts. 
 3. Each user shall read this data security policy and the login and logoff guidelines, and sign a statement that they understand the conditions of access.
 4. Records of user access may be used to provide evidence for security incident investigations.
@@ -30,11 +30,11 @@ GetCraft shall provide all employees and contracted third parties with access to
 
 ### 4.3 **Access Control Authorization**
 
-Access to GetCraft IT resources and services will be given through the provision of a unique user account and complex password. Accounts are provided by the IT department based on records in the HR department. 
+Access to GetCraft IT resources and services will be given through the provision of a unique user account and complex password. Accounts are provided by the IT department based on records in the HR department.
 
-Passwords are managed by the IT Service Desk. Requirements for password length, complexity and expiration are stated in the GetCraft's [Password Policy](general/password-protection-policy.md). 
+Passwords are managed by the IT Service Desk. Requirements for password length, complexity and expiration are stated in the GetCraft's [Password Policy](general/password-protection-policy.md).
 
-Role-based access control \(RBAC\) will be used to secure access to all file-based resources in Active Directory domains. 
+Role-based access control \(RBAC\) will be used to secure access to all file-based resources in Active Directory domains.
 
 ### **4.4 Network Access**
 
@@ -56,7 +56,7 @@ Role-based access control \(RBAC\) will be used to secure access to all file-bas
 
 ### 4.7 **Access to Confidential, Restricted information**
 
-1.  Access to data classified as ‘Confidential’ or ‘Restricted’ shall be limited to authorized persons whose job responsibilities require it, as determined by the Data Security Policy or higher management.
+1. Access to data classified as ‘Confidential’ or ‘Restricted’ shall be limited to authorized persons whose job responsibilities require it, as determined by the Data Security Policy or higher management.
 2. The responsibility to implement access restrictions lies with the IT Security department. 
 
 ## **5. Technical Guidelines**

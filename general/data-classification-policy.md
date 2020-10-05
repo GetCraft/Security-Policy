@@ -1,16 +1,16 @@
 # Data Classification Policy
 
-## 2. Purpose
+## 1. Purpose
 
 The purpose of this policy is to establish a framework for classifying data based on its sensitivity, value and criticality to GetCraft, so sensitive corporate and customer data can be secured appropriately.
 
-## 3. Scope
+## 2. Scope
 
 This policy applies to any form of data, including paper documents and digital data stored on any type of media. It applies to all of the GetCraft’s employees, as well as to third-party agents authorized to access the data.
 
-## 4. Roles and Responsibilities
+## 3. Roles and Responsibilities
 
-### 4.1 Data Owner
+### 3.1 Data Owner
 
 The person who is ultimately responsible for the data and information being collected and maintained by his or her department or division, usually a member of senior management.  The data owner shall address the following:
 
@@ -21,7 +21,7 @@ The person who is ultimately responsible for the data and information being coll
 5. **Data classification compliance** \(in conjunction with data custodians\) — Ensure that information with high and moderate impact level is secured in accordance with federal or state regulations and guidelines
 6. **Data access** \(in conjunction with data custodians\) — Develop data access guidelines for each data classification label
 
-### 4.2 **Data Custodians**
+### 3.2 **Data Custodians**
 
 Technicians from the IT department or, in larger organizations, the Information Security office. Data custodians are responsible for maintaining and backing up the systems, databases and servers that store the GetCraft’s data. In addition, this role is responsible for the technical deployment of all of the rules set forth by data owners and for ensuring that the rules applied within systems are working. Some specific data custodian responsibilities include:
 
@@ -36,14 +36,14 @@ Technicians from the IT department or, in larger organizations, the Information 
 9. **Data classification compliance** \(in conjunction with data owners\) — Ensure that information with high and moderate impact level is secured in accordance with federal or state regulations and guidelines
 10. **Data access** \(in conjunction with data owners\) — Develop data access guidelines for each data classification label
 
-### **4.3 Data User**
+### **3.3 Data User**
 
 Person, organization or entity that interacts with, accesses, uses or updates data for the purpose of performing a task authorized by the data owner. Data users must use data in a manner consistent with the purpose intended, and comply with this policy and all policies applicable to data use.
 
-## **5. Data Classification Procedure**
+## **4. Data Classification Procedure**
 
 1. Data owners review and assign each piece of data they own an information type based on the categories in [NIST 800-600 Volume 1](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-60v1r1.pdf).
-2. Data owners assign each piece of data a potential impact level for each of the security objectives \(confidentiality, integrity, availability\), using the guide in Section 6 of this document. The highest of the three is the overall impact level.
+2. Data owners assign each piece of data a potential impact level for each of the security objectives \(confidentiality, integrity, availability\), using the guide in Section 5 of this document. The highest of the three is the overall impact level.
 3. Data owners assign each piece of data a classification label based on the overall impact level:
 
    | **Overall impact level** | **Classification label** |
@@ -55,7 +55,7 @@ Person, organization or entity that interacts with, accesses, uses or updates da
 4. Data owners record the impact level and classification label for each piece of data in the data classification table.
 5. Data custodians apply information security controls to each piece of data according to its classification label and overall impact level.
 
-## **6. Impact Level Determination**
+## **5. Impact Level Determination**
 
 <table>
   <thead>
@@ -126,9 +126,9 @@ Person, organization or entity that interacts with, accesses, uses or updates da
   </tbody>
 </table>
 
-## **7. Information that Must be Classified as “Restricted”**
+## **6. Information that Must be Classified as “Restricted”**
 
-### **7.1 Authentication information**
+### **6.1 Authentication information**
 
 Authentication information is data used to prove the identity of an individual, system or service. Examples include:
 
@@ -137,13 +137,13 @@ Authentication information is data used to prove the identity of an individual, 
 * Cryptographic private keys
 * Hash tables
 
-### **7.2 Electronic Protected Health Information \(ePHI\)**
+### **6.2 Electronic Protected Health Information \(ePHI\)**
 
 ePHI is defined as any protected health information \(PHI\) that is stored in or transmitted by electronic media. Electronic media includes computer hard drives as well as removable or transportable media, such as a magnetic tape or disk, optical disk, or digital memory card.
 
 Transmission is the movement or exchange of information in electronic form.  Transmission media includes the internet, an extranet, leased lines, dial-up lines, private networks, and the physical movement of removable or transportable electronic storage media.
 
-### **7.3 Payment Card Information \(PCI\)**
+### **6.3 Payment Card Information \(PCI\)**
 
 Payment card information is defined as a credit card number in combination with one or more of the following data elements:
 
@@ -154,7 +154,7 @@ Payment card information is defined as a credit card number in combination with 
 * PIN or PIN block
 * Contents of a credit card’s magnetic stripe
 
-### **7.4 Personally Identifiable Information \(PII\)**
+### **6.4 Personally Identifiable Information \(PII\)**
 
 PII is defined as a person’s first name or first initial and last name in combination with one or more of the following data elements:
 
@@ -164,15 +164,15 @@ PII is defined as a person’s first name or first initial and last name in comb
 * Financial account number in combination with a security code, access code or password that would permit access to the account
 * Medical and/or health insurance information
 
-## 8.  Related Standards, Policies and Processes
+## 7.  Related Standards, Policies and Processes
 
 * [Data Protection Standard](../)
 
-## 9. Definitions and Terms
+## 8. Definitions and Terms
 
 None.
 
-## 8. Revision History
+## 9. Revision History
 
 | **Date of Change** | **Responsible** | **Summary of Change** |
 | :--- | :--- | :--- |
