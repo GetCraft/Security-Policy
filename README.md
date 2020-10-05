@@ -39,9 +39,8 @@ Role-based access control \(RBAC\) will be used to secure access to all file-bas
 ### **4.4 Network Access**
 
 1. All employees and contractors shall be given network access in accordance with business access control procedures and the least-privilege principle.
-2. All staff and contractors who have remote access to GetCraft networks shall be authenticated using the VPN authentication mechanism only.
-3. Segregation of networks shall be implemented as recommended by the GetCraft's network security research. Network administrators shall group together information services, users and information systems as appropriate to achieve the required segregation.
-4. Network routing controls shall be implemented to support the access control policy.
+2. Segregation of networks shall be implemented as recommended by the GetCraft's network security research. Network administrators shall group together information services, users and information systems as appropriate to achieve the required segregation.
+3. Network routing controls shall be implemented to support the access control policy.
 
 ### 4.5 User Responsibilities
 
