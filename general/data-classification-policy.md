@@ -70,7 +70,7 @@ Person, organization or entity that interacts with, accesses, uses or updates da
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"><b>Low</b>
       </td>
       <td style="text-align:left"><b>Moderate</b>
