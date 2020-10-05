@@ -12,7 +12,7 @@ This policy applies to any form of data, including paper documents and digital d
 
 ### 3.1 Data Owner
 
-The person who is ultimately responsible for the data and information being collected and maintained by his or her department or division, usually a member of senior management.  The data owner shall address the following:
+The person who is ultimately responsible for the data and information being collected and maintained by his or her department or division, usually a member of senior management. The data owner shall address the following:
 
 1. **Review and categorization** — Review and categorize data and information collected by his or her department or division
 2. **Assignment of data classification labels**  — Assign data classification labels based on the data’s potential impact level
@@ -50,7 +50,7 @@ Person, organization or entity that interacts with, accesses, uses or updates da
    | :--- | :--- |
    | High | Restricted |
    | Moderate | Confidential |
-   | Low |  Public |
+   | Low | Public |
 
 4. Data owners record the impact level and classification label for each piece of data in the data classification table.
 5. Data custodians apply information security controls to each piece of data according to its classification label and overall impact level.
@@ -141,7 +141,7 @@ Authentication information is data used to prove the identity of an individual, 
 
 ePHI is defined as any protected health information \(PHI\) that is stored in or transmitted by electronic media. Electronic media includes computer hard drives as well as removable or transportable media, such as a magnetic tape or disk, optical disk, or digital memory card.
 
-Transmission is the movement or exchange of information in electronic form.  Transmission media includes the internet, an extranet, leased lines, dial-up lines, private networks, and the physical movement of removable or transportable electronic storage media.
+Transmission is the movement or exchange of information in electronic form. Transmission media includes the internet, an extranet, leased lines, dial-up lines, private networks, and the physical movement of removable or transportable electronic storage media.
 
 ### **6.3 Payment Card Information \(PCI\)**
 
